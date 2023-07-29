@@ -1,0 +1,7 @@
+Ctrl+N = To create new account
+Ctrl+R = To print Customer Balance
+Ctrl+Q = To Quit Bank System
+Ctrl+T = To Deposit Money
+Ctrl+W = To Withdraw Money
+Ctrl+D = To Delete Account
+Ctrl+S = To Search Account Number
